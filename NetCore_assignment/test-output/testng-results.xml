@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="31768" started-at="2021-02-21T16:27:49Z" finished-at="2021-02-21T16:28:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="31768" started-at="2021-02-21T16:27:49Z" finished-at="2021-02-21T16:28:21Z">
+      <class name="testScripts.Base_Test">
+        <test-method status="PASS" signature="getConnection()[pri:0, instance:testScripts.Base_Test@6a5fc7f7]" name="getConnection" is-config="true" duration-ms="31" started-at="2021-02-21T21:57:49Z" finished-at="2021-02-21T21:57:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getConnection -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testScripts.Base_Test@6a5fc7f7]" name="openBrowser" is-config="true" duration-ms="6477" started-at="2021-02-21T21:57:49Z" finished-at="2021-02-21T21:57:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="openApplication()[pri:0, instance:testScripts.Base_Test@6a5fc7f7]" name="openApplication" is-config="true" duration-ms="10828" started-at="2021-02-21T21:57:56Z" finished-at="2021-02-21T21:58:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApplication -->
+        <test-method status="PASS" signature="tc_01()[pri:0, instance:testScripts.Base_Test@6a5fc7f7]" name="tc_01" duration-ms="14095" started-at="2021-02-21T21:58:07Z" finished-at="2021-02-21T21:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01 -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:testScripts.Base_Test@6a5fc7f7]" name="closeBrowser" is-config="true" duration-ms="352" started-at="2021-02-21T21:58:21Z" finished-at="2021-02-21T21:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeApplication()[pri:0, instance:testScripts.Base_Test@6a5fc7f7]" name="closeApplication" is-config="true" duration-ms="0" started-at="2021-02-21T21:58:21Z" finished-at="2021-02-21T21:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+        <test-method status="PASS" signature="closeConnection()[pri:0, instance:testScripts.Base_Test@6a5fc7f7]" name="closeConnection" is-config="true" duration-ms="0" started-at="2021-02-21T21:58:21Z" finished-at="2021-02-21T21:58:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeConnection -->
+      </class> <!-- testScripts.Base_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
